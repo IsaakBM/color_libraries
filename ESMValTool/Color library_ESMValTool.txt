@@ -1,0 +1,10 @@
+IPCC COLOR LIBRARY FOR ESMValTool
+
+the IPCC color palettes were implemented in the ESMValTool. 
+
+They are available for all ESMValTool users in the ESMValTool GitHub repositories.
+
+If you have explicit questions about accessing the repository, please contact:
+
+Lisa Bock - Chapter Scientist for WGI Chapter 3
+lisa.bock@dlr.de
